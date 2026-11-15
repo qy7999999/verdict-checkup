@@ -1,0 +1,9 @@
+# UC Berkeley 1973 研究生录取 (Bickel, Hammel & O'Connell 1975, Science)
+# 真实教科书级辛普森悖论: 总体男录取率44% > 女35%, 但逐系几乎每系女性录取率>=男性
+# 系 A-F: applicants_male, admitted_male, applicants_female, admitted_female
+A 825 512 108 89
+B 560 353 25 17
+C 325 120 593 202
+D 417 138 375 131
+E 191 53 393 94
+F 373 22 341 24
